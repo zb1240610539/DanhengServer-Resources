@@ -3007,7 +3007,7 @@
       15
     ],
     "GroupWithContent": {
-      "83": 13901
+      "83": 16901
     },
     "GroupID": 83,
     "RogueRoomType": 7,
@@ -3577,7 +3577,7 @@
       7
     ],
     "GroupWithContent": {
-      "94": 13901
+      "94": 14901
     },
     "GroupID": 94,
     "RogueRoomType": 7,
@@ -4142,7 +4142,7 @@
       5
     ],
     "GroupWithContent": {
-      "62": 13901
+      "62": 15901
     },
     "GroupID": 62,
     "RogueRoomType": 7,
@@ -4707,7 +4707,7 @@
       2
     ],
     "GroupWithContent": {
-      "5": 13901
+      "5": 14901
     },
     "GroupID": 5,
     "RogueRoomType": 7,
@@ -7816,7 +7816,7 @@
     "GroupWithContent": {
       "25": 0,
       "26": 0,
-      "27": 13901
+      "27": 19901
     },
     "GroupID": 26,
     "RogueRoomType": 7,
